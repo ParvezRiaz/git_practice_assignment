@@ -14,3 +14,5 @@ function identifyPrime(num) {
   }
   console.log("Yes");
 }
+
+identifyPrime(46)
